@@ -1,6 +1,6 @@
-# PythonProjectTemplate
-Template hello world project with CI/CD examples.
+# Task Executor Service
 
-Master status: ![](https://github.com/RSOA-WEITI-2020/PythonProjectTemplate/workflows/Tests/badge.svg?branch=master)  
-Develop status: ![](https://github.com/RSOA-WEITI-2020/PythonProjectTemplate/workflows/Tests/badge.svg?branch=develop)
+Task Executor Service for ROSA system.
 
+Master status: ![](https://github.com/RSOA-WEITI-2020/TaskExecutor/workflows/Tests/badge.svg?branch=master)  
+Develop status: ![](https://github.com/RSOA-WEITI-2020/TaskExecutor/workflows/Tests/badge.svg?branch=develop)
