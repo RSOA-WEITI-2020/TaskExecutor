@@ -11,7 +11,7 @@ def make_celery():
     password = os.environ["BROKER_PASSWORD"]
     address = os.environ["BROKER_ADDRESS"]
     broker_address = f"amqp://{user}:{password}@{address}"
-    return Celery("celery_qiskit", broker=broker_address)
+    return Celery("worker", broker=broker_address)
 
 
 app = make_celery()
