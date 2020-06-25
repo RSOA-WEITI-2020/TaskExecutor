@@ -6,9 +6,9 @@ authors = ["Wojciech Gruszka <wojciech@gruszka.eu>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
+rosatasks = {git = "https://github.com/RSOA-WEITI-2020/ROSATasks"}
 python = "^3.7"
 celery = "^4.4.5"
-rosatasks = {git = "https://github.com/RSOA-WEITI-2020/ROSATasks"}
 
 [tool.poetry.dev-dependencies]
 autopep8 = "^1.5.2"
